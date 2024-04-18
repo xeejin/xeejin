@@ -8,11 +8,11 @@
 - 😄 Fun fact: I love your dog
 
 ## 🏃 Experience
-- (- 2021) Majored in english literature (Hanyang Univ.) 
+- (- 2021) Majored in english literature (bachelor) 
 - (2021 - 2022) Gyeonggido Office of Education : government administrator
 - (2022 - 2023) Korea Agro-Fisheries & Food Trade Corporation(AT) : administration senior staff
 - (2023) Housing & City Development Corporation : IT & Computer administrator
-- (2023) Majored in Computer Science (The Korean Academic Credit Bank)
+- (2023) Majored in Computer Science (bachelor)
 
 ## 📍 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
