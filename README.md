@@ -13,6 +13,7 @@
 - (2022 - 2023) Korea Agro-Fisheries & Food Trade Corporation(AT) : administration senior staff
 - (2023) Housing & City Development Corporation : IT & Computer administrator
 - (2023) Majored in Computer Science (bachelor)
+- Other experiences: 🎹 Composing music and release / 🎨 promotional design
 
 ## 📍 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
