@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20I'm%20HEEJIN&fontSize=90&animation=fadeIn)
 
-# LIM HEE JIN
+
 - 💞️ How to reach me: heezeenee@gmail.com
 - 😄 Fun fact: I love your dog
 
