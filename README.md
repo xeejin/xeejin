@@ -1,8 +1,5 @@
 
 
-- 💞️ How to reach me: heezeenee@gmail.com
-- 😄 Fun fact: I love your dog
-
 ## 🏃 Experience
 - (- 2021) Majored in english literature (bachelor) 
 - (2021 - 2022) Gyeonggido Office of Education : government administrator
