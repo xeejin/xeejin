@@ -1,31 +1,15 @@
+# 🚀 Founder of Mingo  
 
+Hi there. I'm an aspiring entrepreneur building **Mingo**, a global AI creator marketplace. My journey blends **technology, content creation, and business strategy**, shaping a vision to empower AI-driven creators worldwide.  
 
-## 🏃 Experience
-- (- 2021) Majored in english literature (bachelor) 
-- (2021 - 2022) Gyeonggido Office of Education : government administrator
-- (2022 - 2023) Korea Agro-Fisheries & Food Trade Corporation(AT) : administration senior staff
-- (2023) Housing & City Development Corporation : IT & Computer administrator
-- (2023) Majored in Computer Science (bachelor)
-- Other experiences: 🎹 Composing music and release / 🎨 promotional design
+## 🔥 Highlights  
+- 🎓 **2024 K-ICT GLOBAL Startup Program Graduate** (Ministry of Science and ICT, South Korea)  
+- 📈 **Surpassed 1.8M total YouTube views in 2024**  
+- 🏢 **3+ years of experience in public sector roles** (Government & Public Enterprise)  
+- 💡 **Founder & CEO of Mingo**, an AI creator marketplace
+- 🧠 **Generated over 10M KRW in AI training projects**  
+- 🎯 Leading a team with a **total of 100M+ views** & a **full-stack developer** onboard  
 
-## 📍 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- 
-## 📖 Studying
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I’m passionate about **scaling AI-driven businesses, connecting creators globally, and leveraging tech to disrupt industries.**   
 
-## 🛠 Tools
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-<br/><br/><br/>
-
-
-# 🌱Status
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeejin&langs_count=8)](https://github.com/xeejin/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeejin&show_icons=true&theme=radical)
+📫 Feel free to connect & collaborate 🚀  
